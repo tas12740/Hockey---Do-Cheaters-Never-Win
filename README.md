@@ -1,3 +1,3 @@
-### Hockey Project
+# Hockey Project
 
-## Is it true that "Cheaters Never Win"?
+### Is it true that "Cheaters Never Win"?
